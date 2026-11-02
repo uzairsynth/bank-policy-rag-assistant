@@ -1,0 +1,10 @@
+[project]
+name = "bank-policy-rag-assistant"
+version = "1.0.0"
+description = "Q&A over State Bank of Pakistan regulations with hybrid retrieval and cited answers from Claude."
+requires-python = ">=3.10"
+license = { text = "MIT" }
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

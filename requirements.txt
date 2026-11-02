@@ -1,0 +1,7 @@
+anthropic>=2.3
+numpy>=1.26
+pypdf>=5.0
+rank-bm25>=0.2.2
+fastembed>=0.5
+streamlit>=1.40
+pytest>=8.0
